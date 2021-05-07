@@ -20,7 +20,7 @@
     "export-to-csv": "^0.2.1",
     "js-levenshtein": "^1.1.6",
     "library": "github:SensesProject/library",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "nuxt": "^2.14.10",
     "timeago.js": "^4.0.2",
     "v-tooltip": "^2.0.3",
